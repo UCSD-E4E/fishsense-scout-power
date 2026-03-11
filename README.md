@@ -1,0 +1,1 @@
+# fishsense-scout-power
